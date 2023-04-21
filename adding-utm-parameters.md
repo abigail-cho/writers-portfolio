@@ -45,11 +45,11 @@ By adding UTM parameters to your affiliate link groups, you can track data about
 
 2. Click **Affiliate Links** on the ██████ whose affiliate link group you'd like to add UTM parameters to. This will open a list of your ██████'s affiliate link groups. 
 
-<p align="center">[Image highlighting where to click to access **Affiliate Links**]</p>
+<p align="center">[Image highlighting where to click to access <b>Affiliate Links</b>]</p>
 
 3. Click **Edit █████** over the affiliate link group you want to add UTM parameters to.
 
-<p align="center">[Image highlighting the **Edit** button]</p>
+<p align="center">[Image highlighting the <b>Edit</b> button]</p>
 
 4. Click ████ █. ███ ███████. 
 
