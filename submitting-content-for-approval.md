@@ -1,6 +1,6 @@
 # Context 
 
-This is a procedural goal-oriented article describing how influencers could submit their social media posts to their unique portals, referred to as the **Live URL**, so the brands that they work with can approve their content on this company's platform before influencers uploaded it to their social media profiles. This article assumed these influencers have experience working with brands as well as some previous knowledge about the **Live URL's** features and functionality.
+This is a procedural goal-oriented article describing how influencers could submit their social media posts to their unique portals, referred to as the **Live URL**, so the brands that they work with can approve their content on this company's platform before influencers uploaded it to their social media profiles. This article assumed these influencers had experience working with brands as well as some previous knowledge about the **Live URL's** features and functionality.
 
 This article was publicly available since my time at this company, so I have not redacted any of the content. The current version can be viewed [here](https://help.grin.co/v1/docs/submitting-content-for-approval). I was the primary contributor to the version shown below.
 
