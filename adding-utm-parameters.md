@@ -69,7 +69,7 @@ By adding UTM parameters to your affiliate link groups, you can track data about
 
 > **Note**
 >
-> We recommend using █████████ for values when you are able so your affiliate link group will automatically update your value when you assign it to a creator. For example, if you use the ████████████ variable, then generate affiliate links for creators named sarah Jones and John Smith, their unique affiliate links will automatically update to have "Sarah" or "John" in their respective URLs. This way, you can track which creator's link (Sarah or John, in this case) generated traffic on your site without having to generate a new link for each creator. 
+> We recommend using █████████ for values when you are able so your affiliate link group will automatically update your value when you assign it to a creator. For example, if you use the ████████████ variable, then ████████ affiliate links for creators named Sarah Jones and John Smith, their ██████ affiliate links will █████████████ ██████ ██ have "Sarah" or "John" in █████ ██████████ ████. This way, you can track █████ █████████ ████ (Sarah or John, in this case) generated traffic on your site without ██████ ██ ████████ █ ███ ████ ███ ████ ███████. 
 > <p align="center">[Image highlighting where to click to add these values]<p>
 > Values are also case sensitive, meaning values like "████" or "████" will be tracked as two different ones. Generally, it's best practice to keep your values lowercase when you're able. If not, but sure you case your values consistently!
 
@@ -81,7 +81,7 @@ By adding UTM parameters to your affiliate link groups, you can track data about
 
 > **Note** 
 > 
-> You can't have more than one of each type of UTM parameter per URL. For example, you can't have two `utm_source`s in one URL. However, you can add each unique UTM parameter in any order you want. There are five different types of UTM parameters, which means you can hve up to five UTM parameters in one URL if you use each of them.
+> You can't have more than one of each type of UTM parameter per URL. For example, you can't have two `utm_source`s in one URL. However, you can add each unique UTM parameter in any order you want. There are five different types of UTM parameters, which means you can have up to five UTM parameters in one URL if you use each of them.
 
 10. Click ████.
 
