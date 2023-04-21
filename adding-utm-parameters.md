@@ -1,6 +1,6 @@
 # Context
 
-This article explained how to add [Google UTM parameters](https://support.google.com/analytics/answer/1033863?hl=en#zippy=%2Cin-this-article) to affiliate links that customers generated within this company's platform. It was assumed that customers were influencer marketing managers who were just starting their campaigns, and they were only somewhat familiar with UTM parameters. 
+This is a procedural goal-oriented article that explained how to add [Google UTM parameters](https://support.google.com/analytics/answer/1033863?hl=en#zippy=%2Cin-this-article) to affiliate links that customers generated within this company's platform. It was assumed that customers were influencer marketing managers who were just starting their campaigns, and they were only somewhat familiar with UTM parameters. 
 
 Because this article was only available to customers, any proprietary information has been redacted, and screenshots of the platform have been removed. Original styling and text have been kept the same. I was the primary contributor to this article.
 
