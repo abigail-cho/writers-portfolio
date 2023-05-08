@@ -5,6 +5,10 @@ This portfolio has a mixture of publicly available documentation and private doc
 
 ## Contents 
 
+* [Adding UTM Parameters](https://github.com/abigail-cho/writers-portfolio/blob/main/adding-utm-parameters.md) 
+* [Submitting Content for Approval](https://github.com/abigail-cho/writers-portfolio/blob/main/submitting-content-for-approval.md) 
+* [Understanding First-Party Data](https://github.com/abigail-cho/writers-portfolio/blob/main/understanding-first-party-data.md) 
+
 ## Contact
 
 For additional context on any of these samples, please contact me at: 
