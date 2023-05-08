@@ -14,3 +14,4 @@ This portfolio has a mixture of publicly available documentation and private doc
 For additional context on any of these samples, please contact me at: 
 * **Email**: abscho@gmail.com
 * **Phone**: +1 (616) 302-3754
+* **LinkedIn**: [Profile](https://www.linkedin.com/in/abscho/)
